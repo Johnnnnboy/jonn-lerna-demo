@@ -1,6 +1,6 @@
 {
   "name": "@jonn-lerna-demo/cli",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "> TODO: description",
   "author": "lishun <lishun@yaorongyun.com>",
   "homepage": "",
@@ -19,5 +19,5 @@
   "gitHead": "74cd99cd1d863f662e0d89d03298a5f7af7e9884",
   "publishConfig": {
     "access": "public"
- }
+  }
 }
