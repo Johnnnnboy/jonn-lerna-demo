@@ -15,5 +15,9 @@
   ],
   "scripts": {
     "test": "node ./__tests__/cli.test.js"
-  }
+  },
+  "gitHead": "74cd99cd1d863f662e0d89d03298a5f7af7e9884",
+  "publishConfig": {
+    "access": "public"
+ }
 }
