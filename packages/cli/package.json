@@ -1,12 +1,12 @@
 {
   "name": "@jonn-lerna-demo/cli",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "> TODO: description",
   "author": "lishun <lishun@yaorongyun.com>",
   "homepage": "",
   "license": "ISC",
   "main": "lib/cli.js",
-  "bin":{
+  "bin": {
     "jonn-cli-demo": "bin/index.js"
   },
   "directories": {
