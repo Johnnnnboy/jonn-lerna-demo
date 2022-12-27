@@ -6,6 +6,9 @@
   "homepage": "",
   "license": "ISC",
   "main": "lib/cli.js",
+  "bin":{
+    "jonn-cli-demo": "bin/index.js"
+  },
   "directories": {
     "lib": "lib",
     "test": "__tests__"
